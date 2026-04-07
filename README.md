@@ -39,7 +39,3 @@ This animation pipeline is suitable for:
 - `display(HTML(...))` ensures compatibility in **Jupyter Notebook environments**.
 
 ---
-
-## Example Output
-
-> Below this markdown cell, the notebook will render a dynamic animation showing detected bubble boundaries evolving over time.
