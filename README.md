@@ -1,6 +1,6 @@
 # Boundary Detection with U-Net
 ## Objective
-Boundary detection** using a trained **U-Net** model. It visualizes the predicted boundaries, with each boundary overlaid on a preprocessed grayscale background.
+**Boundary detection** using a trained **U-Net** model. It visualizes the predicted boundaries, with each boundary overlaid on a preprocessed grayscale background.
 ---
 ## Workflow Overview
 ### 1. **Preprocessing**
